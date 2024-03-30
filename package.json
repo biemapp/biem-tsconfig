@@ -1,0 +1,15 @@
+{
+  "name": "@biem/tsconfig",
+  "version": "1.0.0",
+  "description": "@biem/tsconfig",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biemapp/biem-tsconfig.git"
+  },
+  "author": "Michael Freund <michael@biem.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biemapp/biem-tsconfig/issues"
+  },
+  "homepage": "https://github.com/biemapp/biem-tsconfig#readme"
+}
